@@ -9,3 +9,4 @@ For example:
 • cryptoMagic -E myFile.txt ← will encrypt the contents of the myFile.txt file
 • cryptoMagic myFile.txt ← will encrypt the contents of the myFile.txt file
 • cryptoMagic -D myFile.crp ← will decrypt the contents of the myFile.crp file
+
